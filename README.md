@@ -223,8 +223,9 @@ Per a/c:
 Per a/c:
 * LAU-105 - 2 AIM-9M Sidewinder IR AAM
 * AN/AAQ-28 LITENING
-* (2x) LAU-88, AGM-65D*3
-* (2x) BGU-12
+* (2x) LAU-88, AGM-65D*2
+* (1x) BGU-12
+* (1x) CBU-97
 
 ### AKULA
 
