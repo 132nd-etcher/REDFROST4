@@ -200,7 +200,7 @@ Back-up frequency.
 
 TACON BEAST MISTY AKULA with JTAC BRUTAL on primary frequency at all times.
 
-In case VIKING cannot be contacted all flights are to contact DARKSTAR 237.000 (GREY 6).
+In case VIKING cannot be contacted all flights are to contact DARKSTAR 237.000.
 
 ### Contact point
 
