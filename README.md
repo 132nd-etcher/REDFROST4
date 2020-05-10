@@ -138,7 +138,7 @@ Expect heavy use of FCMs; Northings only will be used (cfr. GRG).
 
 Once established HA WINONA, expect one of following COAs:
 
-1. SEAD in support of AKULA and MISTY;
+1. SEAD in support of AKULA and BEAST;
 2. (or) attack pre-briefed targets acquired by JTAC BRUTAL during earlier phase;
 
 Expect heavy use of FCMs; Northings only will be used (cfr. GRG).
