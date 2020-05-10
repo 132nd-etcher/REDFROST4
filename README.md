@@ -104,17 +104,17 @@ Akula flight to maintain GND to 5000ft.
 
 Establish HA ELISA.
 
-Contact JTAC BRUTAL 40nm out of HA ELISA.
+Contact JTAC BRUTAL 35nm out of HA ELISA.
 
-Advise BRUTAL if able to RTB for re-arm/refuel at initial contact.
+Advise BRUTAL  at initial contact if able to RTB for re-arm/refuel then come back at a later time.
 
 #### MISTY
 
 Establish HA WINONA.
 
-Contact JTAC BRUTAL 40nm out of HA WINONA.
+Contact JTAC BRUTAL 35nm out of HA WINONA.
 
-Advise BRUTAL if able to RTB for re-arm/refuel at initial contact.
+Advise BRUTAL  at initial contact if able to RTB for re-arm/refuel then come back at a later time.
 
 ### CAS
 
@@ -132,7 +132,7 @@ Once within AO, expect one of following COAs:
 1. If time permits (STINGER is SOUTH of BELGIUM): AR C4 D4 E4 (GRG);
 1. Otherwise: neutral escort posture STINGER;
 
-Expect heavy use of FCMs; Northings only will used (cfr. GRG).
+Expect heavy use of FCMs; Northings only will be used (cfr. GRG).
 
 #### MISTY
 
@@ -141,9 +141,9 @@ Once established HA WINONA, expect one of following COAs:
 1. SEAD in support of AKULA and MISTY;
 2. (or) attack pre-briefed targets acquired by JTAC BRUTAL during earlier phase;
 
-Expect heavy use of FCMs; Northings only will used (cfr. GRG).
+Expect heavy use of FCMs; Northings only will be used (cfr. GRG).
 
-Unless otherwqise briefed, all attacks must be made from the WEST, egress to the SOUTH.
+Unless otherwise briefed, all attacks must be made from the WEST, egress to the SOUTH.
 
 At WINCHESTER BEAST, MISTY to take over reactive CAS to support advance STINGER
 
@@ -155,9 +155,9 @@ Once established HA ELISA, expect one of following COAs (in order of likeliness)
 1. If time permits (STINGER is SOUTH of BELGIUM): AR box formed by GRG grid B7 (NW corner) to E5 (SE corner);
 1. Otherwise: reactive CAS to support advance STINGER.
 
-Expect heavy use of FCMs; Northings only will used (cfr. GRG).
+Expect heavy use of FCMs; Northings only will be used (cfr. GRG).
 
-Unless otherwqise briefed, all attacks must be made from the EAST, egress to the SOUTH.
+Unless otherwise briefed, all attacks must be made from the EAST, egress to the SOUTH.
 
 ### Target priorities
 
@@ -204,7 +204,7 @@ In case VIKING cannot be contacted all flights are to contact DARKSTAR 237.000 (
 
 ### Contact point
 
-FW assets to contact BRUTAL 40nm out of assigned HA.
+FW assets to contact BRUTAL 35nm out of assigned HA.
 
 RW assets to contact BRUTAL at CP ANTON, ~2nm NEE of FARP MADRID (orbit IVO ANTON, priority to stay hidden from valley North of Tskhinvali).
 
